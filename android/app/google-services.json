@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112825154150",
+    "project_id": "flutter-fuel-delivery-c60b0",
+    "storage_bucket": "flutter-fuel-delivery-c60b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112825154150:android:98ed511b54386ca3470ba7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fuel_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112825154150-njc5ri191cta4seks2fs375rkoht4h46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJnW-MpXBGT8FjAcMExotQL7dbsETw6rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112825154150-njc5ri191cta4seks2fs375rkoht4h46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
